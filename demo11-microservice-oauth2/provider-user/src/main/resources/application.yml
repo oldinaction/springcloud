@@ -1,0 +1,39 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: provider-user # 建议小写
+  jpa:
+    generate-ddl: false
+    show-sql: true
+    hibernate:
+      ddl-auto: none
+  datasource:
+    platform: h2
+    schema: classpath:schema.sql
+    data: classpath:data.sql
+  cloud:
+    refresh:
+      # Dalston.SR1 -> Finchley.SR1. 报错：The dependencies of some of the beans in the application context form a cycle:(dataSource和DataSourceInitializerInvoker相互依赖)
+      # 解决办法：https://github.com/spring-cloud/spring-cloud-commons/issues/355
+      refreshable: none
+
+# eureka客户端配置
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    # 启用ip访问
+    prefer-ip-address: true
+    # 实例id
+    instanceId: ${spring.application.name}:${spring.application.instance_id:${server.port}}
+
+logging:
+  level:
+    root: INFO
+    org.hibernate: INFO
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+    org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
+    com.itmuch: DEBUG

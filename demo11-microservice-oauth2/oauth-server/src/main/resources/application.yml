@@ -1,0 +1,43 @@
+server:
+  port: 7000
+
+spring:
+  application:
+    name: auth-center # 建议小写
+  jpa:
+#    generate-ddl: true
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  # 存放授权客户端信息
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springcloud?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: root
+    initialization-mode: always # https://stackoverflow.com/questions/49438517/why-spring-boot-2-0-application-does-not-run-schema-sql
+    schema: classpath:script/schema.sql
+    data: classpath:script/data.sql
+  # 存放token
+  redis:
+    host: 127.0.0.1
+    database: 1
+    port: 6379
+#    password: 123456
+  cloud:
+    refresh:
+      # Dalston.SR1 -> Finchley.SR1. 报错：The dependencies of some of the beans in the application context form a cycle:(dataSource和DataSourceInitializerInvoker相互依赖)
+      # 解决办法：https://github.com/spring-cloud/spring-cloud-commons/issues/355
+      refreshable: none
+
+# eureka客户端配置
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    # 启用ip访问
+    prefer-ip-address: true
+    instanceId: ${spring.application.name}:${spring.application.instance_id:${server.port}}
+
+logging.level.org.springframework.security: DEBUG

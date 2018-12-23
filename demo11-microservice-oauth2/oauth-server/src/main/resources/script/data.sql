@@ -1,0 +1,1 @@
+INSERT INTO `oauth_client_details` VALUES ('gateway', null, '$2a$10$MhItwYeLHInpPB7WAcHhN.f41/CiWhYISLR45vlG5GaN0Fkj.3Cbq', 'all', 'authorization_code,password,refresh_token,client_credentials', null, null, null, null, null, 'true');
