@@ -1,0 +1,33 @@
+security:
+  basic:
+    enabled: true #开启eureka后台登录认证
+  user:
+    name: smalle
+    password: smalle
+
+# 相当于文件application-peer1.yml，启动加active profile为peer1
+---
+server:
+  port: 8761
+spring:
+  profiles: peer1
+eureka:
+  instance:
+    # 需要在/etc/hosts中加127.0.0.1的映射
+    hostname: peer1
+  client:
+    serviceUrl:
+      defaultZone: http://smalle:smalle@peer2:8762/eureka/
+
+---
+server:
+  port: 8762
+spring:
+  profiles: peer2
+eureka:
+  instance:
+    hostname: peer2
+  client:
+    serviceUrl:
+      defaultZone: http://smalle:smalle@peer1:8761/eureka/
+

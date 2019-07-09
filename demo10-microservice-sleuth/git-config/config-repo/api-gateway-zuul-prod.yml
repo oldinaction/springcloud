@@ -1,5 +1,0 @@
-zuul:
-  routes:
-    api-movie:
-      path: /api-movie-config/**
-      serviceId: consumer-movie-ribbon
