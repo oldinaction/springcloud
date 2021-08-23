@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-movie" />
+        <module name="eureka-server" />
+        <module name="eureka-server-peer" />
+        <module name="provider-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="7">
+      <module name="consumer-movie" target="1.7" />
+      <module name="eureka-server" target="1.7" />
+      <module name="eureka-server-peer" target="1.7" />
+      <module name="provider-user" target="1.7" />
+      <module name="springcloud-eureka" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0193296b-d92d-4b50-b582-acef3db361fd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/demo2-eureka/consumer-movie/consumer-movie.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2-eureka/consumer-movie/consumer-movie.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2-eureka/eureka-server-peer/eureka-server-peer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2-eureka/eureka-server-peer/eureka-server-peer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2-eureka/eureka-server/eureka-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2-eureka/eureka-server/eureka-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2-eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2-eureka/provider-user/provider-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2-eureka/provider-user/provider-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo2-eureka/springcloud-eureka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo2-eureka/springcloud-eureka.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/demo2-eureka/eureka-server-peer/target/" />
+    <ignored path="$PROJECT_DIR$/demo2-eureka/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/demo2-eureka/consumer-movie/target/" />
+    <ignored path="$PROJECT_DIR$/demo2-eureka/provider-user/target/" />
+    <ignored path="$PROJECT_DIR$/demo2-eureka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/ideawork/spring-framework" value="PREVIEW" />
+        <entry key="D:/workspace/ofbiz" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo2-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/demo2-eureka/eureka-server-peer/src/main/java/cn/aezo/springcloud/eurekaserverpeer/EurekaServerPeerApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="345" />
+    <option name="y" value="222" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="consumer-movie" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="consumer-movie" type="616d4139:PackageViewModuleNode" />
+              <item name="cn" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="consumer-movie" type="616d4139:PackageViewModuleNode" />
+              <item name="cn" type="1f31426a:PackageElementNode" />
+              <item name="aezo" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="consumer-movie" type="616d4139:PackageViewModuleNode" />
+              <item name="cn" type="1f31426a:PackageElementNode" />
+              <item name="aezo" type="1f31426a:PackageElementNode" />
+              <item name="springcloud" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="consumer-movie" type="616d4139:PackageViewModuleNode" />
+              <item name="cn" type="1f31426a:PackageElementNode" />
+              <item name="aezo" type="1f31426a:PackageElementNode" />
+              <item name="springcloud" type="1f31426a:PackageElementNode" />
+              <item name="consumermovie" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="consumer-movie" type="616d4139:PackageViewModuleNode" />
+              <item name="cn" type="1f31426a:PackageElementNode" />
+              <item name="aezo" type="1f31426a:PackageElementNode" />
+              <item name="springcloud" type="1f31426a:PackageElementNode" />
+              <item name="consumermovie" type="1f31426a:PackageElementNode" />
+              <item name="controller" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="58d84e3e:PackageViewProjectNode" />
+              <item name="consumer-movie" type="616d4139:PackageViewModuleNode" />
+              <item name="cn" type="1f31426a:PackageElementNode" />
+              <item name="aezo" type="1f31426a:PackageElementNode" />
+              <item name="springcloud" type="1f31426a:PackageElementNode" />
+              <item name="consumermovie" type="1f31426a:PackageElementNode" />
+              <item name="entity" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="consumer-movie" type="cbb8eebc:String" user="consumer-movie" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="consumer-movie" type="cbb8eebc:String" user="consumer-movie" />
+              <item name="demo2-eureka/consumer-movie" type="cbb8eebc:String" user="demo2-eureka/consumer-movie" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="consumer-movie" type="cbb8eebc:String" user="consumer-movie" />
+              <item name="demo2-eureka/consumer-movie" type="cbb8eebc:String" user="demo2-eureka/consumer-movie" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo2-eureka" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerPeerApplicationPeer2">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ConsumerMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.aezo.springcloud.consumermovie.ConsumerMovieApplication" />
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.aezo.springcloud.eurekaserverpeer.EurekaServerApplication" />
+    </configuration>
+    <configuration name="EurekaServerPeerApplicationPeer1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server-peer" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.aezo.springcloud.eurekaserverpeer.EurekaServerPeerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.profiles.active" />
+          <option name="value" value="peer1" />
+        </param>
+      </additionalParameters>
+    </configuration>
+    <configuration name="EurekaServerPeerApplicationPeer2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server-peer" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.aezo.springcloud.eurekaserverpeer.EurekaServerPeerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.profiles.active" />
+          <option name="value" value="peer2" />
+        </param>
+      </additionalParameters>
+    </configuration>
+    <configuration name="ProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.aezo.springcloud.providermovie.ProviderUserApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConsumerMovieApplication" />
+      <item itemvalue="Spring Boot.ProviderUserApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerPeerApplicationPeer1" />
+      <item itemvalue="Spring Boot.EurekaServerPeerApplicationPeer2" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0193296b-d92d-4b50-b582-acef3db361fd" name="Default" comment="" />
+      <created>1597651216903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597651216903</updated>
+      <workItem from="1597651219162" duration="628000" />
+      <workItem from="1597833908578" duration="294000" />
+      <workItem from="1597887848536" duration="7274000" />
+      <workItem from="1616389962633" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8332000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" auto_hide="true" id="Key Promoter X" internal_type="SLIDING" order="0" side_tool="true" type="SLIDING" weight="0.31626666" />
+      <window_info anchor="right" id="PlantUML" order="13" sideWeight="0.49888143" weight="0.304" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="RestServices" order="21" weight="0.3296" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012903" side_tool="true" weight="0.27510917" />
+      <window_info anchor="bottom" id="JRebel Console" order="13" sideWeight="0.5010661" side_tool="true" weight="0.2673378" />
+      <window_info anchor="right" id="Maven Projects" order="5" sideWeight="0.39341694" visible="true" weight="0.184" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info anchor="right" id="Flutter Outline" order="14" show_stripe_button="false" sideWeight="0.49888143" weight="0.3296" />
+      <window_info anchor="bottom" id="MyBatis Log" order="24" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="19" sideWeight="0.49888143" weight="0.28693333" />
+      <window_info anchor="right" x="747" y="73" width="425" height="894" id="Structure" order="0" sideWeight="0.60658306" side_tool="true" visible="true" weight="0.184" />
+      <window_info anchor="right" auto_hide="true" id="Translate" order="16" show_stripe_button="false" type="SLIDING" weight="0.3296" />
+      <window_info anchor="right" id="Ant Build" order="9" sideWeight="0.49888143" weight="0.2496" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.4989339" weight="0.34787473" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.45973155" />
+      <window_info anchor="right" x="496" y="73" width="928" height="894" id="Codota" order="20" weight="0.29386666" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="bottom" id="Run Dashboard" order="1" visible="true" weight="0.28635347" />
+      <window_info anchor="bottom" id="Flutter Performance" order="22" show_stripe_button="false" sideWeight="0.50159913" side_tool="true" weight="0.2785235" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4989339" weight="0.34340045" />
+      <window_info anchor="right" id="leetcode" order="1" sideWeight="0.6050157" side_tool="true" weight="0.184" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49870968" weight="0.38478747" />
+      <window_info anchor="bottom" id="Sequence" order="25" />
+      <window_info anchor="bottom" id="Spring" order="17" weight="0.32997763" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33892617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.44357365" visible="true" weight="0.18186666" />
+      <window_info anchor="right" id="Bean Validation" order="10" show_stripe_button="false" sideWeight="0.49888143" weight="0.2224" />
+      <window_info id="Web" order="7" sideWeight="0.50782996" side_tool="true" weight="0.17750533" />
+      <window_info id="JRebel" order="6" show_stripe_button="false" sideWeight="0.5080386" side_tool="true" weight="0.17750533" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="5" sideWeight="0.51007754" side_tool="true" weight="0.22334754" />
+      <window_info anchor="right" id="Flutter Inspector" order="15" show_stripe_button="false" sideWeight="0.49888143" weight="0.3296" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="JProfiler" order="19" weight="0.32997763" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49840087" weight="0.28970918" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" order="20" weight="0.32997763" />
+      <window_info anchor="bottom" id="Problems" order="27" sideWeight="0.49973333" weight="0.32885906" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32995737" />
+      <window_info id="Struts Assistant" order="9" />
+      <window_info anchor="right" id="jclasslib" order="17" weight="0.42537314" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="26" weight="0.32997763" />
+      <window_info anchor="bottom" id="Database Console" order="18" weight="0.38255033" />
+      <window_info anchor="bottom" id="Docker" order="21" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="23" />
+      <window_info anchor="bottom" id="Jindent" order="29" weight="0.21029083" />
+      <window_info id="Persistence" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="28" weight="0.32997763" />
+      <window_info anchor="bottom" id="REST Client" order="8" weight="0.4082774" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="12" sideWeight="0.49888143" weight="0.3296" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32997763" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="18" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo2-eureka/eureka-server-peer/src/main/java/cn/aezo/springcloud/eurekaserverpeer/EurekaServerPeerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94487">
+          <caret line="4973" column="25" selection-start-line="4973" selection-start-column="25" selection-end-line="4973" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2-eureka/eureka-server-peer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15713">
+          <caret line="871" column="23" lean-forward="true" selection-start-line="871" selection-start-column="23" selection-end-line="871" selection-end-column="23" />
+          <folding>
+            <element signature="e#22611#22612#0" expanded="true" />
+            <element signature="e#22639#22640#0" expanded="true" />
+            <element signature="e#32479#32480#0" expanded="true" />
+            <element signature="e#32529#32530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="139" column="17" lean-forward="true" selection-start-line="139" selection-start-column="17" selection-end-line="139" selection-end-column="17" />
+          <folding>
+            <element signature="e#6900#6901#0" expanded="true" />
+            <element signature="e#6958#6959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding>
+            <element signature="e#1623#1624#0" expanded="true" />
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2-eureka/consumer-movie/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2-eureka/consumer-movie/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2-eureka/eureka-server/src/main/java/cn/aezo/springcloud/eurekaserverpeer/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="139" column="17" lean-forward="true" selection-start-line="139" selection-start-column="17" selection-end-line="139" selection-end-column="17" />
+          <folding>
+            <element signature="e#6900#6901#0" expanded="true" />
+            <element signature="e#6958#6959#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+          <folding>
+            <element signature="e#1623#1624#0" expanded="true" />
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2-eureka/eureka-server-peer/src/main/java/cn/aezo/springcloud/eurekaserverpeer/EurekaServerPeerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4973" column="25" selection-start-line="4973" selection-start-column="25" selection-end-line="4973" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo2-eureka/eureka-server-peer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/soft/java/jdk1.7.0_51/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="871" column="23" lean-forward="true" selection-start-line="871" selection-start-column="23" selection-end-line="871" selection-end-column="23" />
+          <folding>
+            <element signature="e#22611#22612#0" expanded="true" />
+            <element signature="e#22639#22640#0" expanded="true" />
+            <element signature="e#32479#32480#0" expanded="true" />
+            <element signature="e#32529#32530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo11-oauth2/eureka-server/src/main/java/cn/aezo/springcloud/eurekaserver/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springcloud-eureka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
